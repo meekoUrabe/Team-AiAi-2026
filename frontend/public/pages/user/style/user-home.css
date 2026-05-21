@@ -345,13 +345,13 @@ body {
         max-height: 100vh;
         border-radius: 0;
     }
-    
+
     .impact-overlay-stat {
         bottom: 15px;
         right: 15px;
         padding: 10px 16px;
     }
-    
+
     .stat-value {
         font-size: 20px;
     }
